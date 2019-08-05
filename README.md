@@ -1,7 +1,5 @@
 # Hifumi_Bot
-Discord Bot
-
-What I Have Learned
+What I Have Learned:
 
 Properly connecting a discord bot
 
